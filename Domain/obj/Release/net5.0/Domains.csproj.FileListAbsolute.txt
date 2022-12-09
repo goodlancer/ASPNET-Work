@@ -1,0 +1,12 @@
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\bin\Release\net5.0\Domains.deps.json
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\bin\Release\net5.0\Domains.dll
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\bin\Release\net5.0\ref\Domains.dll
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\bin\Release\net5.0\Domains.pdb
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.csproj.AssemblyReference.cache
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.AssemblyInfoInputs.cache
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.AssemblyInfo.cs
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.csproj.CoreCompileInputs.cache
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.dll
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\ref\Domains.dll
+D:\work\Angular\scolptio-crm-api\ScolptioCRMWebService\Domain\obj\Release\net5.0\Domains.pdb
